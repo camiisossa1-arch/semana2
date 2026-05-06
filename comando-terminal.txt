@@ -1,7 +1,7 @@
-Comandos terminal.txt
-1. cd semana2
-2. git init
-3. git add .
-4. git commit -m "Archivos semana 2"
-5. git remote add origin URL
-6. git push origin main
+pwd
+ls
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
