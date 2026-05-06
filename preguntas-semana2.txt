@@ -1,0 +1,12 @@
+- ¿Qué es GitHub y para qué sirve?
+GitHub es una plataforma para guardar y compartir código. Sirve para trabajar en equipo y llevar control de versiones.
+
+- ¿Qué comando se usa para clonar un repositorio?
+Se usa: git clone + la URL del repositorio
+
+- ¿Qué diferencia hay entre 'git add' y 'git commit'?
+git add: Prepara los archivos para guardar
+git commit: Guarda los cambios con un mensaje
+
+- ¿Qué es una rama (branch) en Git?
+Es una copia del proyecto para trabajar cambios sin dañar lo principal

@@ -1,0 +1,3 @@
+Esta semana aprendí a usar Git y GitHub. 
+Al principio fue confuso pero ahora entiendo que sirve para guardar versiones de mi trabajo y compartirlo. 
+Lo más importante fue aprender los comandos básicos de la terminal.
