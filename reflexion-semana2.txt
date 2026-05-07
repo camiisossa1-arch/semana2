@@ -1,3 +1,9 @@
-Esta semana aprendí a usar Git y GitHub. 
-Al principio fue confuso pero ahora entiendo que sirve para guardar versiones de mi trabajo y compartirlo. 
-Lo más importante fue aprender los comandos básicos de la terminal.
+Es importante usar la terminal porque permite trabajar mas rapido sin depender del mouse.
+Con comandos como cd y ls puedo moverme entre carpetas y ver archivos en segundos.
+Esto es clave en proyectos grandes donde hay muchas carpetas y archivos organizados.
+Tambien puedo crear carpetas y archivos con mkdir y touch sin abrir ventanas.
+Un desarrollador usa la terminal para automatizar tareas que serian lentas a mano.
+Git tambien funciona desde la terminal para guardar versiones de mi codigo.
+Saber navegar con pwd me ayuda a saber siempre en que carpeta estoy trabajando.
+Organizar archivos desde la terminal evita errores y mantiene el proyecto limpio.
+Por eso todo desarrollador debe dominar los comandos basicos de la terminal.
